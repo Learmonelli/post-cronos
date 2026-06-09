@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "María García",
+    "edad": 14,
+    "lugar": "Córdoba Capital"
+  },
+  "fecha": "2026-04-21",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-bucket/dibujos/maria_garcia_001.jpg"
+  },
+  "dialogue": {
+    "socio_creativo": "ia",
+    "interpretacion": "Un árbol generador de energía en la plaza San Martín, donde las hojas son paneles solares y la gente se conecta debajo para cargar dispositivos. Simboliza comunidad y sostenibilidad."
+  },
+  "synthesis": {
+    "diseno_final": "Un parque con dispositivos de carga solar comunitaria, donde los bancos tienen puertos USB y las memorias se comparten entre vecinos."
+  }
+}

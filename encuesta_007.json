@@ -1,0 +1,21 @@
+{
+  "participante": {
+    "nombre": "Nina French",
+    "edad": 13,
+    "genero": "Femenino",
+    "lugar": "Córdoba Capital"
+  },
+  "fecha": "2026-06-09",
+  "unlock": {
+    "dibujo_2060": "https://storage.googleapis.com/post-cronos-dibujos-2060/dibujo_nuevo_001.jpeg"
+  },
+  "dialogue": {
+    "socio_creativo": "ia",
+    "eje": "Mobiliario",
+    "eje_otro_texto": null,
+    "interpretacion": "Edificio fértil de 5 pisos con una columna central de tierra que atraviesa toda la estructura desde el suelo hasta la terraza. A lo largo de esta columna crecen plantas y vegetación como un jardín colgante vertical. El edificio se conecta directamente con la tierra fértil, integrando naturaleza y arquitectura."
+  },
+  "synthesis": {
+    "diseno_final": "Edificio-columna vivo: mobiliario urbano vertical donde una columna central de tierra fértil conecta cada piso, permitiendo que la vegetación crezca a lo largo de toda la estructura. Las terrazas funcionan como jardines colgantes comunitarios, y el mobiliario (bancos, mesas, estantes) se integra en la columna central, creando un ecosistema vertical habitable que fusiona lo natural con lo construido en el Córdoba del 2060."
+  }
+}

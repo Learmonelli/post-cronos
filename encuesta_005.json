@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "Tomás Herrera",
+    "edad": 17,
+    "lugar": "La Calera"
+  },
+  "fecha": "2026-04-22",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-dibujos-2060/tomas_herrera_002.png"
+  },
+  "dialogue": {
+    "socio_creativo": "ia",
+    "interpretacion": "Una red de préstamos de objetos entre vecinos a través de casilleros inteligentes en las esquinas. Cada casillero tiene un inventario actualizado y permite exchanges sin efectivo. Los objetos más pedidos se fabrican localmente con impresión 3D."
+  },
+  "synthesis": {
+    "diseno_final": "Red de trueque automatizado: casilleros inteligentes en esquinas con inventario comunitario, promoviendo economía circular y vínculos vecinales."
+  }
+}

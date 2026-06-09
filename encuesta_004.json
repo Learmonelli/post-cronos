@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "Agustina Ruiz",
+    "edad": 15,
+    "lugar": "Córdoba Capital"
+  },
+  "fecha": "2026-04-22",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-dibujos-2060/agustina_ruiz_001.png"
+  },
+  "dialogue": {
+    "socio_creativo": "ia",
+    "interpretacion": "Un huerto vertical inteligente en las paredes de la escuela, donde las plantas crecen con luz reciclada de las aulas. Cada piso tiene un sistema de compostaje comunitario. Los estudiantes cuidan su sector y comparten la cosecha en el almuerzo."
+  },
+  "synthesis": {
+    "diseno_final": "Paredes comestibles escolares: huertos verticales con sensores quealertan cuando las plantas necesitan agua o luz, conectando estudiantes de diferentes grados en cadena de cuidado ambiental."
+  }
+}

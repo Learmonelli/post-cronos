@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "Sofia Torres",
+    "edad": 13,
+    "lugar": "Jesús María"
+  },
+  "fecha": "2026-04-22",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-bucket/dibujos/sofia_torres_003.jpg"
+  },
+  "dialogue": {
+    "socio_creativo": "ia",
+    "interpretacion": "Un espejo inteligente en plazas que refleja cómo sería la ciudad si tomamos diferentes acciones hoy. Permite visualizar el impacto colectivo antes de actuar."
+  },
+  "synthesis": {
+    "diseno_final": "Kioscos de realidad aumentada en espacios públicos que muestran simulaciones del futuro según decisiones actuales, promoviendo citizen science."
+  }
+}

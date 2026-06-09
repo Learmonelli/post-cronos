@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "Lucas Pérez",
+    "edad": 16,
+    "lugar": "Villa María"
+  },
+  "fecha": "2026-04-21",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-bucket/dibujos/lucas_perez_002.jpg"
+  },
+  "dialogue": {
+    "socio_creativo": "persona",
+    "interpretacion": "Un colectivo autónomo que recorre los barrios y adapta su ruta según quién suba. Los asientos se reconfiguran para diferentes actividades: taller, biblioteca, consulta médica."
+  },
+  "synthesis": {
+    "diseno_final": "Micros comunitarios itinerantes que transforman el transporte público en espacios multifunción, llegando donde los固定 edificios no llegan."
+  }
+}

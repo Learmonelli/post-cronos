@@ -1,0 +1,18 @@
+{
+  "participante": {
+    "nombre": "Valentina Castro",
+    "edad": 14,
+    "lugar": "Unquillo"
+  },
+  "fecha": "2026-04-22",
+  "unlock": {
+    "dibujo_2060": "gs://post-cronos-dibujos-2060/valentina_castro_003.png"
+  },
+  "dialogue": {
+    "socio_creativo": "persona",
+    "interpretacion": "Banco de historias familiares en la plaza del barrio. Cada viernes, alguien grande cuenta un recuerdo y se proyecta en la pared del banco como animación. Los niños aprenden el pasado jugando."
+  },
+  "synthesis": {
+    "diseno_final": "Archivos vivos comunitarios: proyecciones interactivas de memorias barriales en espacios públicos, creando puentes generacionales."
+  }
+}
